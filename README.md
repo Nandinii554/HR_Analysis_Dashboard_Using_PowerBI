@@ -47,12 +47,15 @@ Tabular view of job-specific metrics including average, minimum, and maximum sal
 
 ## Insights:
 - The workforce has grown steadily, with a significant increase between 2018 and 2022.
+
 ![image](https://github.com/user-attachments/assets/5070d3d2-65a6-4a33-ad52-b8cf90f43b71)
 
 - Research Scientists and Product Managers have the highest average salaries, while Quality Control roles have the lowest.
+
 ![image](https://github.com/user-attachments/assets/157e4be1-f23e-4a44-a351-f463b41b3e1d)
 
 - Employees with higher qualifications tend to earn higher salaries.
+
 ![image](https://github.com/user-attachments/assets/c326838e-ad09-4f9c-ac58-e9e9ee1edf00)
 
 - Roles like Research Scientist and Marketing Specialist show balanced leave utilization, whereas others have higher leave balances exceeding 20 days. 
