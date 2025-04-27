@@ -8,7 +8,6 @@ This dashboard provides an in-depth analysis of HR workforce data, focusing on m
 - Facilitate decision-making: Provide actionable insights to improve workforce planning and management.
 
 ## **Data Source:** <br>
-Platform: Kaggle <br>
 Dataset: HR Workforce Analytics dataset containing 161 rows and 9 columns, including metrics such as job titles, salaries, leave balances, and joining dates.<br>
 
 ## **Data Transformation (Power Query):**<br>
